@@ -20,10 +20,10 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'yhhf');
+define('DB_NAME', 'THIS IS FOR REMOTE ONLY');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'REMOTE PASSWORD');
 
 /** MySQL database password */
 define('DB_PASSWORD', '');
